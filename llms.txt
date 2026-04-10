@@ -1,0 +1,56 @@
+# Rideout Plumbing
+
+> Veteran-owned, family-run plumbing company serving Charlotte, NC and surrounding areas since 1981. 4.8★ on Google with 178 reviews. Owner: Jason Rideout.
+
+## Business
+
+- **Name:** Rideout Plumbing (formerly Julian's Plumbing)
+- **Owner:** Jason Rideout, President & Master Plumber
+- **Founded:** 1981 (45+ years in business)
+- **Type:** Veteran-owned, family-run small business
+- **License:** NC Plumbing License #21504
+- **BBB:** A+ rated, accredited since 2024
+- **Phone:** (704) 375-0780
+- **Address:** 4224 Park Rd, Charlotte, NC 28209
+- **Hours:** 24/7 including emergency service
+- **Rating:** 4.8★ / 178 Google reviews
+
+## Services
+
+- Kitchen & Bath Plumbing (toilets, tubs, showers, faucets, sinks, garbage disposals, dishwashers)
+- Drain & Pipe Cleaning
+- Slab & Yard Leak Detection and Repair
+- Water & Sewer Line Repair and Replacement
+- Water Filtration Systems
+- Water Heater Installation and Repair (traditional & tankless)
+
+## Value Propositions
+
+- Same-day service available
+- Flat-rate, upfront honest pricing
+- 1-year warranty on all work
+- 24/7 emergency response
+- Small team = consistent, accountable service
+
+## Service Area
+
+Charlotte, NC and surrounding areas including South Charlotte, Matthews, Pineville, Ballantyne, and neighboring communities.
+
+## Team
+
+- **Jason Rideout** — Owner & Master Plumber
+- **Chason** — Plumber
+- **Jeff** — Plumber
+- **Dixie** — Bulldog mascot (Chief Morale Officer)
+
+## Customer Reviews (Sample)
+
+- "Awesome! Honest and efficient! Came the same day to fix my bathtub!" — Nikki J.
+- "I've been working with Jason and his team for nearly 10 years. Rideout always delivers." — Kevin J.
+- "To have someone be that responsive in my time of need was priceless." — Matthew R.
+
+## Site
+
+- **Demo URL:** https://rideoutplumbing.nule.io
+- **Built by:** Nule & Co
+- **Purpose:** Pitch/demo redesign to show Jason Rideout what a modern site could look like
